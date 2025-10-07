@@ -1,0 +1,24 @@
+{
+  "input_data": {
+    "columns": [
+      "name",
+      "year",
+      "km_driven",
+      "fuel",
+      "seller_type",
+      "transmission",
+      "owner"
+    ],
+    "data": [
+      [
+        "Maruti Swift Dzire VDI",
+        2014,
+        145500,
+        "Diesel",
+        "Individual",
+        "Manual",
+        "First Owner"
+      ]
+    ]
+  }
+}
